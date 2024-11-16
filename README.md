@@ -48,3 +48,7 @@ php artisan db:seed
 ```bash
 http://127.0.0.1:8000/dashboard
 ```
+
+- Upload File hanya bisa berupa file pertipe XLS,XSLS dan CSV (Excel)
+- Anda Bisa menggunkana file berikut untuk pengujian query upload soal
+[donwload here](https://docs.google.com/spreadsheets/d/1yLvguZ9tm4JiTmkb9aq43115b1dAR_sq/edit?usp=sharing&ouid=116225450301243167293&rtpof=true&sd=true)
